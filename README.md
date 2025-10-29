@@ -25,6 +25,7 @@ And two functions to get a potentially undefined element without throwing `E_NOT
 composer require coalesce/coalesce
 ```
 
+
 ### Usage
 
 ```php
