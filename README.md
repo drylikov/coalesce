@@ -23,6 +23,7 @@ And two functions to get a potentially undefined element without throwing `E_NOT
 
 - `val` : returns an array element or null if the index is undefined
 
+
   
 - `prop` : returns an object property or null if the index is undefined
 
