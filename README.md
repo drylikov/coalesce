@@ -19,6 +19,7 @@ And two functions to get a potentially undefined element without throwing `E_NOT
 
 ### Installation
 
+
 ```
 composer require coalesce/coalesce
 ```
