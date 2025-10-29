@@ -10,6 +10,7 @@ Two "coalescy" php functions to used while waiting for the `??` operator :
 - `coalescy` : like `coalesce`, but returns the first not falsy value.
 
 
+
 And two functions to get a potentially undefined element without throwing `E_NOTICE`
 - `val` : returns an array element or null if the index is undefined
 - `prop` : returns an object property or null if the index is undefined
