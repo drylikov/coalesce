@@ -1,4 +1,5 @@
 
+
 # `coalesce` & `coalescy`
 
 Two "coalescy" php functions to used while waiting for the `??` operator :
